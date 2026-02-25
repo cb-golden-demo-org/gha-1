@@ -1,4 +1,4 @@
-# PROJECT_NAME
+# gha-1
 
 A comprehensive Spring Boot template project with production-ready best practices, featuring user management, security, testing, containerization, and CI/CD pipelines.
 
