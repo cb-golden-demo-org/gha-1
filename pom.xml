@@ -14,7 +14,7 @@
     </parent>
 
     <groupId>com.example</groupId>
-    <artifactId>PROJECT_NAME</artifactId>
+    <artifactId>gha-1</artifactId>
     <version>1.0.0</version>
     <name>Java GHA</name>
     <description
